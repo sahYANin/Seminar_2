@@ -1,0 +1,15 @@
+C:\Users\SahYA\Desktop\GB study\CC\Seminar_2\Task_4(1)\bin\Debug\net6.0\Task_4(1).exe
+C:\Users\SahYA\Desktop\GB study\CC\Seminar_2\Task_4(1)\bin\Debug\net6.0\Task_4(1).deps.json
+C:\Users\SahYA\Desktop\GB study\CC\Seminar_2\Task_4(1)\bin\Debug\net6.0\Task_4(1).runtimeconfig.json
+C:\Users\SahYA\Desktop\GB study\CC\Seminar_2\Task_4(1)\bin\Debug\net6.0\Task_4(1).dll
+C:\Users\SahYA\Desktop\GB study\CC\Seminar_2\Task_4(1)\bin\Debug\net6.0\Task_4(1).pdb
+C:\Users\SahYA\Desktop\GB study\CC\Seminar_2\Task_4(1)\obj\Debug\net6.0\Task_4(1).csproj.AssemblyReference.cache
+C:\Users\SahYA\Desktop\GB study\CC\Seminar_2\Task_4(1)\obj\Debug\net6.0\Task_4(1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SahYA\Desktop\GB study\CC\Seminar_2\Task_4(1)\obj\Debug\net6.0\Task_4(1).AssemblyInfoInputs.cache
+C:\Users\SahYA\Desktop\GB study\CC\Seminar_2\Task_4(1)\obj\Debug\net6.0\Task_4(1).AssemblyInfo.cs
+C:\Users\SahYA\Desktop\GB study\CC\Seminar_2\Task_4(1)\obj\Debug\net6.0\Task_4(1).csproj.CoreCompileInputs.cache
+C:\Users\SahYA\Desktop\GB study\CC\Seminar_2\Task_4(1)\obj\Debug\net6.0\Task_4(1).dll
+C:\Users\SahYA\Desktop\GB study\CC\Seminar_2\Task_4(1)\obj\Debug\net6.0\refint\Task_4(1).dll
+C:\Users\SahYA\Desktop\GB study\CC\Seminar_2\Task_4(1)\obj\Debug\net6.0\Task_4(1).pdb
+C:\Users\SahYA\Desktop\GB study\CC\Seminar_2\Task_4(1)\obj\Debug\net6.0\Task_4(1).genruntimeconfig.cache
+C:\Users\SahYA\Desktop\GB study\CC\Seminar_2\Task_4(1)\obj\Debug\net6.0\ref\Task_4(1).dll
